@@ -1,2 +1,2 @@
-username ="batuhanbaswh"
-password ="1967Batuhan44"
+username ="BatuhanbasSwe"
+password ="NULL"
